@@ -2,7 +2,7 @@
 <h2 align=center>aka meruru(めるる), and merurudev</h2>
 
 # Who?
-* 🌐 Web Developer (I 🫶 Astro)
+* 🌐 Web Developer (I 🫶 Astro & Vue)
 * ✏️ High School Student
 * 🖧 Maintains Infrastructure (a litle)
 
